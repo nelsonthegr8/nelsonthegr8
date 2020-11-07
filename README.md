@@ -1,4 +1,8 @@
 ### Hi there 👋
+* Xcode 11 / Swift 5 (master branch)
+* iOS >= 8.0 (Use as an **Embedded** Framework)
+* tvOS >= 9.0
+* macOS >= 10.11
 
 <!--
 **nelsonthegr8/nelsonthegr8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
