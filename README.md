@@ -1,8 +1,11 @@
 ### Hi there 👋
-* Xcode 11 / Swift 5 (master branch)
-* iOS >= 8.0 (Use as an **Embedded** Framework)
-* tvOS >= 9.0
-* macOS >= 10.11
+<p align="center">
+<a href="https://developer.apple.com/swift"><img src="https://img.shields.io/badge/language-swift5-f48041.svg?style=flat"></a>
+<a href="http://cocoadocs.org/docsets/SwiftTheme"><img src="https://img.shields.io/cocoapods/v/SwiftTheme.svg?style=flat"></a>
+<a href="https://github.com/Carthage/Carthage"><img src="https://img.shields.io/badge/carthage-compatible-4BC51D.svg?style=flat"></a>
+<a href="https://developer.apple.com/ios"><img src="https://img.shields.io/badge/platform-iOS%208%2B | tvOS%208%2B-blue.svg?style=flat"></a>
+<a href="https://github.com/wxxsw/SwiftTheme/blob/master/LICENSE"><img src="http://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat"></a>
+</p>
 
 <!--
 **nelsonthegr8/nelsonthegr8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
