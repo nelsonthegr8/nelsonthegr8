@@ -1,23 +1,11 @@
-### Hi there 👋
-<p align="center">
-<a href="https://developer.apple.com/swift"><img src="https://img.shields.io/badge/language-swift5-f48041.svg?style=flat"></a>
-<a href="http://cocoadocs.org/docsets/SwiftTheme"><img src="https://img.shields.io/cocoapods/v/SwiftTheme.svg?style=flat"></a>
-<a href="https://github.com/Carthage/Carthage"><img src="https://img.shields.io/badge/carthage-compatible-4BC51D.svg?style=flat"></a>
-<a href="https://developer.apple.com/ios"><img src="https://img.shields.io/badge/platform-iOS%208%2B | tvOS%208%2B-blue.svg?style=flat"></a>
-<a href="https://github.com/wxxsw/SwiftTheme/blob/master/LICENSE"><img src="http://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat"></a>
-</p>
+### Hi Im Nelson Brumaire 👋
 
-<!--
-**nelsonthegr8/nelsonthegr8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education
+- Broward College Graduate 🎓 
+- Associates in Science for Software Development
+- Software Developer Technical Certification 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## A Little More About Me
+- 🔭 I’m currently working on a VR fighting game with Unity
+- 🌱 I’m currently learning AI and Machine Learning
+- ⚡ Fun fact: I am currently studying at Broward College towards getting my bachelor's in I.T. and Web Development
