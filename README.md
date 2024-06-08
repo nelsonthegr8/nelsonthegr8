@@ -2,14 +2,20 @@
 
 ## Education
 - Broward College Graduate 🎓 
-- Associates in Science for Software Development
-- Software Developer Technical Certification 
+- BACHELOR OF APPLIED SCIENCE INFORMATION TECHNOLOGY
+- ASSOCIATE IN SCIENCE COMPUTER PROGRAMMING AND ANALYSIS HONORS
+- ASSOCIATE IN ARTS
+  
+## Certifications
+- Software Developer Technical Certification
+- Computer Programming Specialist Certicate
+- Computer Programmer  Technical Certicate
+- Information Technology Support  Specialist Certicate
 
 ## Software
-- Developer of Righteous Revenue on the IOS App Store
-- Link: https://apps.apple.com/jm/app/righteous-revenue/id1528905058
+- Developer of Righteous Revenue on the IOS App Store (no longer on the ios app store)
 
 ## A Little More About Me
-- 🔭 I’m currently working on a VR fighting game with Unity
-- 🌱 I’m currently learning AI and Machine Learning
-- ⚡ Fun fact: I am currently studying at Broward College towards getting my bachelor's in I.T. and Web Development
+- 🔭 Love to build with my hands. Wood working hobbyist
+-  Currently working on a new version of righteous revenue app
+  
