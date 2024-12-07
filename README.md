@@ -16,4 +16,5 @@
 ## A Little More About Me
 - 🔭 Love to build with my hands. Wood working hobbyist
 -  Currently working on a new version of righteous revenue app
+-  Real Estate investor and an Airbnb SuperHost
   
